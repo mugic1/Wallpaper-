@@ -1,6 +1,6 @@
 # Divine Wallpapers Collection
 
-![Preview](krishna/ico5.jpeg)
+![Preview](krishna/ico11.jpeg)
 
 A collection of beautiful, high-quality devotional wallpapers for your mobile devices featuring Lord Krishna and Lord Shiva.
 
