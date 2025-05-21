@@ -33,4 +33,4 @@ No installation required! Simply:
 3. Click "Download" on your favorite wallpapers
 
 ```bash
-git clone https://github.com/mugic/wallpaper-.git
+git clone https://mugic1.github.io/Wallpaper-/.git
