@@ -19,7 +19,7 @@ A collection of beautiful, high-quality devotional wallpapers for your mobile de
    - 15+ flute-wielding Krishna wallpapers
    - Gold accent colors
 
-2. **Shiva Wallpapers** - `shiv.html**
+2. **Shiva Wallpapers** - `shiv.html`
    - Earth-toned interface
    - 11+ meditating Shiva wallpapers
    - Bronze accent colors
